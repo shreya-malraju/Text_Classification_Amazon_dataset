@@ -3,6 +3,8 @@ Classifying Amazon review data using 7 different classifiers and analyze their p
 
 The demo video is as under- https://www.youtube.com/watch?v=FRmL5AZJFiE 
 
+The complete blog for this project can be found here - https://shreyamalraju.wixsite.com/shreyamalraju/post/copy-of-why-teaching-marine-science-in-school-is-essential
+
 Aim : The project is determined to analyse the performance of different algorithms by classifying the reviews into their rating class. We compare the algorithms using accuracy, and running time as metrics of performance.
 
 We try to determine the rating based on the review text.
@@ -25,7 +27,10 @@ Algorithms Used-
 Output:
 
 
-<img width="147" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/e1fe1405-ec3a-4562-9b17-429154469554">
+<img width="500" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/e1fe1405-ec3a-4562-9b17-429154469554">
 
-<img width="142" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/6313a9ca-ee93-44de-b166-75a6e5c7d6d4">
+
+
+
+<img width="500" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/6313a9ca-ee93-44de-b166-75a6e5c7d6d4">
 
