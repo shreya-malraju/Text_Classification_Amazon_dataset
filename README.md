@@ -24,7 +24,8 @@ Algorithms Used-
 
 Output:
 
-<img width="1440" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/8c099636-578b-4387-885d-0bfff3b94625">
 
-<img width="1440" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/5acc25bb-f410-49f4-bfda-8fc06ed88dd6">
+<img width="147" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/e1fe1405-ec3a-4562-9b17-429154469554">
+
+<img width="142" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/6313a9ca-ee93-44de-b166-75a6e5c7d6d4">
 
