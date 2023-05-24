@@ -27,10 +27,10 @@ Algorithms Used-
 Output:
 
 
-<img width="500" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/e1fe1405-ec3a-4562-9b17-429154469554">
+<img width="500" height="750" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/e1fe1405-ec3a-4562-9b17-429154469554">
 
 
 
 
-<img width="500" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/6313a9ca-ee93-44de-b166-75a6e5c7d6d4">
+<img width="500" height="750" alt="image" src="https://github.com/shreya-malraju/Text_Classification_Amazon_dataset/assets/132793649/6313a9ca-ee93-44de-b166-75a6e5c7d6d4">
 
